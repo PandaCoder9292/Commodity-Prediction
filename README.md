@@ -8,18 +8,16 @@ Features ->
 3. Accuracy Metrics: Automatically calculates the model's accuracy percentage in the terminal.
 4. Visual Forecasting: Generates a trend graph comparing historical data with predicted future prices.
 5. Exportable Results: Save your 30-day forecast directly to a CSV file.
+   
 
 Built With  ->
 
-Python (Core Logic)
+1. Python (Core Logic)
+2. Scikit-Learn (Linear Regression Model)
+3. Pandas & NumPy (Data Processing)
+4. Matplotlib (Data Visualization)
+5. yfinance (Financial Data Source)
 
-Scikit-Learn (Linear Regression Model)
-
-Pandas & NumPy (Data Processing)
-
-Matplotlib (Data Visualization)
-
-yfinance (Financial Data Source)
 
 Now, How to run this Project in your device ->
 
