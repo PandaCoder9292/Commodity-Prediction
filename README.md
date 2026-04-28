@@ -12,9 +12,13 @@ Features ->
 Built With  ->
 
 Python (Core Logic)
+
 Scikit-Learn (Linear Regression Model)
+
 Pandas & NumPy (Data Processing)
+
 Matplotlib (Data Visualization)
+
 yfinance (Financial Data Source)
 
 Now, How to run this Project in your device ->
